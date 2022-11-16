@@ -1,5 +1,5 @@
 # Introduction to Embedded Systems Lab 4
-Lab 5 of this class goes over how to use interrupts timers and PWN pins on the MSP430 board.
+Lab 4 of this class goes over how to use interrupts timers and PWN pins on the MSP430 board.
 
 # Question 1
 In this question, a program was coded that uses an interrupt timer to make an LED blink at 250ms.
