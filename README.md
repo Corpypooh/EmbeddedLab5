@@ -1,4 +1,4 @@
-# Introduction to Embedded Systems Lab 5 
+# Introduction to Embedded Systems Lab 4
 Lab 5 of this class goes over how to use interrupts timers and PWN pins on the MSP430 board.
 
 # Question 1
